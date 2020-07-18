@@ -1,5 +1,5 @@
 # StackOverflowPost
-This is an exercise from the 'C# Intermediate: Classes, Interfaces and OOP' course on Udemy. The exercise wording is as follows:
+This is an exercise from the 'C# Intermediate: Classes, Interfaces and OOP' course by Mosh Hamedani on Udemy. The exercise wording is as follows:
 
 Exercise 2: Design a StackOverflow Post
 
